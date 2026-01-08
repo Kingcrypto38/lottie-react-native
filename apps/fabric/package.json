@@ -10,7 +10,7 @@
     "upgrade": "react-native upgrade"
   },
   "dependencies": {
-    "lottie-react-native": "workspace:*",
+    "lottie-react-native": "1.0.0",
     "react": "18.2.0",
     "react-native": "0.73.1"
   },
